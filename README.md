@@ -20,7 +20,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+Traveller+I'm+Anowar+%F0%9F%91%8B;Electronics+and+Communication+Student;Front-End+Developer;Problem+Solver;Remote+Worker;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+Traveller+I'm+Anowar+%F0%9F%91%8B;  Electronics+and+Communication+Student;Front-End+Developer;Problem+Solver;Remote+Worker;Open-Source+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/hossainanowaroffical/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
             <li>🌱 <b>I’m currently learning</b>: Full Stack Web Developement </li>
             <li>🎯 <b>I’m currently focusing on</b>: Problem-Solving ⭐️ star the projects if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1c1Khw4m1KxCCOExYGkBzMKoxQV5zUiSV/view?usp=sharing">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about ReactJs and anything related to Web</b> <a href="https://github.com/anowar265/anowar265/issues">Here</a>.</li>
+            <li>💬 <b>Ask me about </b>:ReactJs and anything related to Web <a href="https://github.com/anowar265/anowar265/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍).</li>
             <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>
