@@ -34,8 +34,7 @@ Here are some ideas to get you started:
     <div align=center>
         <a href="https://www.linkedin.com/in/hossainanowaroffical/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://stackoverflow.com/users/17870436/anowar-hossain"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://www.quora.com/profile/ANOWAR-HOSSAIN-102"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
-        
+        <a href="https://www.quora.com/profile/ANOWAR-HOSSAIN-102"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>    
     </div>
     <div align=left>
         <br>
