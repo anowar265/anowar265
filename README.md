@@ -1,12 +1,3 @@
-# Hi Traveller, I'm Anowar 👋
-- 🌱 I’m currently learning Full Stack Web Developement
-- 📫 How to reach me: anowar2119@gmail.com
--  👯 I’m looking to collaborate on Youtube
--  🤔 I’m looking for help with Web Design Techniques
-- 💬 Ask me about ReactJs and anything related to Web
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I want to code "Hello World!" in every language atleast once. 
-
 
 <!--
 **anowar265/anowar265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,8 +41,7 @@ Here are some ideas to get you started:
             <li>🌱 <b>I’m currently learning</b>: Full Stack Web Developement </li>
             <li>🎯 <b>I’m currently focusing on</b>: Problem-Solving ⭐️ star the projects if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1c1Khw4m1KxCCOExYGkBzMKoxQV5zUiSV/view?usp=sharing">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about ReactJs and anything related to Web</b>.</li>
-            <li>📫<b>My Gmail:anowar2119@gmail.com</b></li>
+            <li>💬 <b>Ask me about ReactJs and anything related to Web</b> <a href="https://github.com/anowar265/anowar265/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍).</li>
             <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>
