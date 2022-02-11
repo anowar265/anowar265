@@ -50,7 +50,8 @@ Here are some ideas to get you started:
             <li>🌱 <b>I’m currently learning</b>: Full Stack Web Developement </li>
             <li>🎯 <b>I’m currently focusing on</b>: Problem-Solving ⭐️ star the projects if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1c1Khw4m1KxCCOExYGkBzMKoxQV5zUiSV/view?usp=sharing">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about ReactJs and anything related to Web</b>: <a href="anowar3042@gmail.com">Here</a>.</li>
+            <li>💬 <b>Ask me about ReactJs and anything related to Web</b>.</li>
+            <li>📫<b>My Gmail:anowar2119@gmail.com</b></li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍).</li>
             <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anowar265&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
         -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=anowar265&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
     </div>
