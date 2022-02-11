@@ -1,4 +1,12 @@
-# Hi I'm Anowar 👋
+# Hi Traveller, I'm Anowar 👋
+- 🌱 I’m currently learning Full Stack Web Developement
+- 📫 How to reach me: anowar2119@gmail.com
+-  👯 I’m looking to collaborate on Youtube
+-  🤔 I’m looking for help with Web Design Techniques
+- 💬 Ask me about ReactJs and anything related to Web
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I want to code "Hello World!" in every language atleast once. 
+
 
 <!--
 **anowar265/anowar265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
