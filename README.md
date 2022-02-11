@@ -48,7 +48,9 @@ Here are some ideas to get you started:
             <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>
         </ul>
     </div>
-# 🛠 &nbsp;Tech Stack
+<h1 align="center">🛠 Tech Stack</h1>
+
+<br>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
