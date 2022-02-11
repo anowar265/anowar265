@@ -20,7 +20,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+Traveller+I'm+Anowar+%F0%9F%91%8B;Electronics+and+Comunication+Student;Front-End+Developer;Problem+Solver;Remote+Worker;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+Traveller+I'm+Anowar+%F0%9F%91%8B;Electronics+and+Comm.+Student;Front-End+Developer;Problem+Solver;Remote+Worker;Open-Source+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/hossainanowaroffical/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
